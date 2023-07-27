@@ -6,7 +6,7 @@
 This repository contains a tribute page dedicated to the great Indian statesman and former Prime Minister, Atal Bihari Vajpayee. The page is built using HTML, CSS, and JavaScript to showcase his life, achievements, and contributions to the nation.
 
 ## Live Demo
-Check out the live demo of the Tribute Page at: [https://atal-bihari-vajpaayee.vercel.app/](https://atal-bihari-vajpaayee.vercel.app/)
+Check out the live demo of the Tribute Page at: [Tribute Page](https://atal-bihari-vajpaayee.vercel.app)
 
 ## Table of Contents
 - [Introduction](#introduction)
